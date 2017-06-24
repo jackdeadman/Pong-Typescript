@@ -11,7 +11,7 @@ To compile the project you will need to have `node` installed. First install the
 
 ``$ yarn install `` or ``$ npm install ``
 
-Next make a change to the project. The best place to start is by modifying some variables in `Constants.ts` such as the colours and the speed of the ball. Once a change has been made the Typescript code can be compiled into JavaScript. To do this run the following command `npm run compile` or `yarn run compile`.
+Next make a change to the project. The best place to start is by modifying some variables in `Constants.ts` such as the colours and the speed of the paddles. Once a change has been made the Typescript code can be compiled into JavaScript. To do this run the following command `npm run compile` or `yarn run compile`.
 
 Once you've got that working, why not try adding a new feature? Pull requests are very welcome! :-)
 
